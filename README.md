@@ -10,7 +10,7 @@
 <h4 align="left">I'm a Frontend Web Developer from Siberia 🧊</h4>
 
 <a href="#h1karoo-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=h1karoo&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="debabin" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=h1karoo&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="h1karoo" align="right" />
 </a>
 
 - :fire: &nbsp;I develop for all platforms using **Typescript**
