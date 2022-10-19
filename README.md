@@ -13,7 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=h1karoo&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="h1karoo" align="right" />
 </a>
 
-- :fire: &nbsp;I develop for all platforms using **Typescript**
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/privetdanet)**
 - :speech_balloon: &nbsp;I use  **[VK](https://vk.com/privetdanet)**
 - :fire: &nbsp;My resume on **[hh.ru](https://disk.yandex.ru/edit/disk/disk%2F%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%BE%D0%B2%20%D0%9E%D0%BB%D0%B5%D0%B3%20%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%20(2).docx)**
