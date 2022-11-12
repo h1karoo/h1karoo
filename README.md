@@ -152,7 +152,7 @@
 
 ## :comet: Contact
 <a href="#h1karoo-title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=h1karo&show_icons=true&locale=en&layout=compact&theme=react" alt="debabin" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=h1karoo&show_icons=true&locale=en&layout=compact&theme=react" alt="debabin" />
 </a>
 
 - :comet: &nbsp;**[Github](https://github.com/h1karoo)**
