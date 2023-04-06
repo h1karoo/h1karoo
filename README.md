@@ -3,9 +3,7 @@
 </div>
 
 <h1 align="left">:wave: Hello there! I'm Oleg Filippov</h1>
-<div>
-<a href="">Discord: h1karo#6867</a>
-</div>
+
 
 <h4 align="left">I'm a Frontend Web Developer from Siberia 🧊</h4>
 
